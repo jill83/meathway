@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Chloe-Madison"
+	backgroundColor="rgba(0,0,0,1)"
+	useFullscreenExpand="false"
+
+>
+  <image imageURL="images/Chloe_Madison_001.jpg"
+	thumbURL="thumbs/Chloe_Madison_001.jpg"
+	linkURL="images/Chloe_Madison_001.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Meathway\Chloe\Renamed\Chloe_Madison_001.jpg">
+    <title><![CDATA[Chloe_Madison_001]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Chloe_Madison_002.jpg"
+	thumbURL="thumbs/Chloe_Madison_002.jpg"
+	linkURL="images/Chloe_Madison_002.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Meathway\Chloe\Renamed\Chloe_Madison_002.jpg">
+    <title><![CDATA[Chloe_Madison_002]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Chloe_Madison_003.jpg"
+	thumbURL="thumbs/Chloe_Madison_003.jpg"
+	linkURL="images/Chloe_Madison_003.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Meathway\Chloe\Renamed\Chloe_Madison_003.jpg">
+    <title><![CDATA[Chloe_Madison_003]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Chloe_Madison_004.jpg"
+	thumbURL="thumbs/Chloe_Madison_004.jpg"
+	linkURL="images/Chloe_Madison_004.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Meathway\Chloe\Renamed\Chloe_Madison_004.jpg">
+    <title><![CDATA[Chloe_Madison_004]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Chloe_Madison_005.jpg"
+	thumbURL="thumbs/Chloe_Madison_005.jpg"
+	linkURL="images/Chloe_Madison_005.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Meathway\Chloe\Renamed\Chloe_Madison_005.jpg">
+    <title><![CDATA[Chloe_Madison_005]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Chloe_Madison_006.jpg"
+	thumbURL="thumbs/Chloe_Madison_006.jpg"
+	linkURL="images/Chloe_Madison_006.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Meathway\Chloe\Renamed\Chloe_Madison_006.jpg">
+    <title><![CDATA[Chloe_Madison_006]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Chloe_Madison_007.jpg"
+	thumbURL="thumbs/Chloe_Madison_007.jpg"
+	linkURL="images/Chloe_Madison_007.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Meathway\Chloe\Renamed\Chloe_Madison_007.jpg">
+    <title><![CDATA[Chloe_Madison_007]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Chloe_Madison_008.jpg"
+	thumbURL="thumbs/Chloe_Madison_008.jpg"
+	linkURL="images/Chloe_Madison_008.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Meathway\Chloe\Renamed\Chloe_Madison_008.jpg">
+    <title><![CDATA[Chloe_Madison_008]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Chloe_Madison_009.jpg"
+	thumbURL="thumbs/Chloe_Madison_009.jpg"
+	linkURL="images/Chloe_Madison_009.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Meathway\Chloe\Renamed\Chloe_Madison_009.jpg">
+    <title><![CDATA[Chloe_Madison_009]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Chloe_Madison_010.jpg"
+	thumbURL="thumbs/Chloe_Madison_010.jpg"
+	linkURL="images/Chloe_Madison_010.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Meathway\Chloe\Renamed\Chloe_Madison_010.jpg">
+    <title><![CDATA[Chloe_Madison_010]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
