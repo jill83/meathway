@@ -1,0 +1,2 @@
+image Width=604px Height=403px
+thumb Width=140px Height=121px

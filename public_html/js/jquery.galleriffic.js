@@ -882,7 +882,7 @@
 		this.displayedPage = -1;
 		this.currentImage = this.data[0];
 		var gallery = this;
-
+if (!this.currentImage) return false;//add to fix image data error ref https://code.google.com/p/galleriffic/issues/detail?id=81
 		// Hide the loadingContainer
 		if (this.$loadingContainer)
 			this.$loadingContainer.hide();

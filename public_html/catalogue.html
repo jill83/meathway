@@ -9,36 +9,13 @@ and open the template in the editor.
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
     <head>
         <title>Meathway Contracting - Projects</title>
-        <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        
-	<style type="text/css" media="screen">
-	html, body	{ height:100%; }
-	body {
-
-		overflow:auto;
-		background-color: #eee;
-		color:#333;
-		font-family:sans-serif;
-		xfont-size:20px;
-		width:800px;
-	}
-	a {
-		color:#AA0000;
-	}
-
-	.link-button{
-		color:#AA0000;
-		text-decoration: underline;
-		cursor: pointer;
-	}
-
-	
-	</style>
+   
    <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
     <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
     <link rel="stylesheet" href="css/grid.css" type="text/css" media="screen"> 
-           <script src="images/Chloe_JBGallery/jbcore/juicebox.js"></script>
+    <script src="js/jbcore/juicebox.js"></script>
   <script src="js/jquery-1.6.2.min.js" type="text/javascript"></script> 
     <script src="js/jquery.easing.1.3.js" type="text/javascript"></script>
     <script src="js/jcarousellite_1.0.1.js" type="text/javascript"></script>
@@ -56,7 +33,7 @@ and open the template in the editor.
 				  easing:'easeOutQuart',
 				  visible: 4,
 				  start: 0,
-				  scroll: 1
+				  scroll: 4
 			 });
 		});
 	</script>
@@ -85,8 +62,8 @@ and open the template in the editor.
                             <ul class="menu">
                                 <li><a href="index.html">About Us</a></li>
                                 <li><a href="services.html">Services</a></li>
-                                <li><a class="active" href="catalogue.html">Catalogue</a></li>
-                                <li><a href="pricing.html">Pricing</a></li>
+                                <li><a class="active" href="catalogue.html">Projects</a></li>
+                                <li><a href="references.html">References</a></li>
                                 <li><a href="contacts.html">Contacts</a></li>
                             </ul>
                         </nav>
@@ -100,17 +77,11 @@ and open the template in the editor.
             	<div class="container_12">
                 	<div class="grid_9">
                     	<h1>
-                            <a class="logo" href="index.html">Int<strong>e</strong>rior</a>
-                            <span>Design</span>
+                            <a class="logo" href="index.html"> <img src="images/meathwaylogogreybg.png" alt="" /> </a>  
+                            <span>General Contractors</span>
                         </h1>
                     </div>
-                        <div class="grid_3">
-                            <form id="search-form" method="post" enctype="multipart/form-data">
-                                <fieldset>	
-                                  					
-                                </fieldset>
-                            </form>
-                         </div>
+                        
                      <div class="clear"></div>
                 </div>
             </div>
@@ -134,21 +105,11 @@ and open the template in the editor.
                                                 <div id="JBslideshow" class="JBslideshow"></div>
 <!-- Embed JB here -->
 
-
-
-
+<div align="center" id="juicebox-container"></div>
                                             </div>
                                         </div>
                                     </div>
                                   
-                                </div>
-                                <div class="inner-2">
-                                    <div class="wrapper">
-                                        <span class="title t2 img-indent3">2011</span>
-                                        <div class="extra-wrap indent-top2">
-                                        	Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam volup tatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur.
-                                        </div>
-                                    </div>
                                 </div>
                             </div>
                             <div class="carousel">
@@ -157,10 +118,18 @@ and open the template in the editor.
                                 <a class="next" href="#">Next</a>
                                 <div class="jCarouselLite">
                                     <ul id="carousel">
-                                        <li><a href="#" id="gallery1link"><img src="images/page3-img1.jpg" alt="" /><span>Chloe Madison</span></a></li>
-                                        <li><a href="#" id="gallery2link"><img src="images/page3-img2.jpg" alt="" /><span>Alexis Bittar</span></a></li>
-                                        <li><a href="#" id="gallery1link"><img src="images/page3-img3.jpg" alt="" /><span>2009</span></a></li>
-                                        <li><a href="#" id="gallery1link"><img src="images/page3-img4.jpg" alt="" /><span>2008</span></a></li>
+                                        <li><div id="gallery1link"><img src="images/Chloe_JBGallery/images/Chloe_Madison_001.jpg"></img><span>Chloe</span></div></li>
+                                        <li><div id="gallery2link"><img src="images/Alexis_Bittar_JBGallery/images/Alexis_Bittar_1.jpg"></img><span>Alexis Bittar</span></div></li>
+                                        <li><div id="gallery3link"><img src="images/CommSpace_JBGallery/images/commercialspace3.jpg"></img><span>Commercial Space</span></div></li>
+                                        <li><div id="gallery4link"><img src="images/ElizabethSt_JBGallery/images/Elizabeth1.jpg"></img><span>Boutique</span></div></li>
+                                        <li><div id="gallery5link"><img src="images/MaspethHome_JBGallery/images/maspeth1.jpg"></img><span>Maspeth Home</span></div></li>
+                                        <li><div id="gallery6link"><img src="images/MedOffice_JBGallery/images/25-bond-7.jpg"></img><span>Medical Office</span></div></li>
+                                        <li><div id="gallery7link"><img src="images/Office_JBGallery/images/office1.jpg"></img><span>Office</span></div></li>
+                                        <li><div id="gallery8link"><img src="images/Penthouse_JBGallery/images/ph1.jpg"></img><span>Penthouse</span></div></li>    
+                                        <li><div id="gallery9link"><img src="images/RooftopFence_JBGallery/images/fence1.jpg"></img><span>Rooftop Fence</span></div></li> 
+                                        <li><div id="gallery10link"><img src="images/SohoBoutique_JBGallery/images/lim2.jpg"></img><span>Soho Boutique</span></div></li>
+                                        <li><div id="gallery11link"><img src="images/SohoRetailStore_JBGallery/images/nike1.jpg"></img><span>Soho Retail Store</span></div></li>
+                                        <li><div id="gallery12link"><img src="images/Townhouse_JBGallery/images/174 Warren sm.jpg"></img><span>Brooklyn Townhouse</span></div></li>
                                     </ul>
                                 </div>
                             </div>
@@ -169,70 +138,10 @@ and open the template in the editor.
                 </div>
             </div>	
         </div>
-        <div class="bg-bot">
-        	<div class="main">
-            	<div class="container_12">
-                	<div class="wrapper">
-                    	<article class="grid_4">
-                        	<div class="indent-right2">
-                                <h3 class="prev-indent-bot">Publications</h3>
-                                <p class="color-4 prev-indent-bot">At vero eos et accusamus et iusto odio dignissi tum deleniti atque corrupti quos</p>
-                                <p>Dolores et quas molestias excepturi sint occae cati cupiditate non provident, similique sunt in culpa qui officia deserunt.</p>
-                                <a class="button" href="#">View More</a>
-                            </div>
-                        </article>
-                        <article class="grid_4">
-                        	<h3 class="p2">Art of Placement</h3>
-                            <div class="wrapper">
-                            	<figure class="img-indent frame2"><img src="images/page3-img5.jpg" alt="" /></figure>
-                                <div class="extra-wrap">
-                                	<p class="img-indent-bot">At vero eos eaccusa mus etusto odio tium voluptatum deleniti atque corrupti quos dolores et quas.</p>
-                                    <a class="button" href="#">View More</a>
-                                </div>
-                            </div>
-                        </article>
-                        <article class="grid_4">
-                        	<h3 class="prev-indent-bot2">External Links</h3>
-                            <ul class="list-2">
-                            	<li><a href="#">Totam rem aperiam eaque ipsa quae abillo</a></li>
-                                <li><a href="#">Inventore veritatis quasi architecto beatae vitae</a></li>
-                                <li><a href="#">Nemo enim ipsam voluptatem quia</a></li>
-                                <li><a href="#">Voluptas sit aspernatur aut odit aut fugit</a></li>
-                                <li><a href="#">Sed quia consequuntur magni dolores eos</a></li>
-                                <li class="last-item"><a href="#">Ratione voluptatem sequi nesciunt</a></li>
-                            </ul>
-                        </article>
-                    </div>
-                </div>
-            </div>
-        </div>
     </section>
     
 	<!--==============================footer=================================-->
-    <footer>
-        <div class="main">
-        	<div class="container_12">
-            	<div class="wrapper">
-                	<div class="grid_4">
-                    	<div>Interior Design &copy; 2011 <a class="link color-3" href="#">Privacy Policy</a></div>
-                        <div>Website Template by <a href="http://www.templatemonster.com/" target="_blank" rel="nofollow">www.templatemonster.com</a></div>
-                        <!-- {%FOOTER_LINK} -->
-                    </div>
-                    <div class="grid_4">
-                    	<span class="phone-numb"><span>+1(800)</span> 123-1234</span>
-                    </div>
-                    <div class="grid_4">
-                    	<ul class="list-services">
-                        	<li><a href="#"></a></li>
-                            <li><a class="item-2" href="#"></a></li>
-                            <li><a class="item-3" href="#"></a></li>
-                            <li><a class="item-4" href="#"></a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
+
     <script type="text/javascript">
 			$(window).load(function() {
 			// We only want these styles applied when javascript is enabled
@@ -253,7 +162,7 @@ and open the template in the editor.
 			var gallery = $('#thumbs').galleriffic({
 				delay:                     7000,
 				numThumbs:                 12,
-				preloadAhead:              6,
+				preloadAhead:              12,
 				enableTopPager:            false,
 				enableBottomPager:         false,
 				imageContainerSel:         '#slideshow',
@@ -285,32 +194,38 @@ and open the template in the editor.
 				}
 			});
 		});
-	</script>
-        <h1>Switching Juicebox Galleries with Javascript</h1>
-	<p>This example shows switching between multiple Juicebox galleries using JavaScript. Click the links below to switch the gallery. Do a 'View Source' on this page to see the required code. <a href="/support/embedding/#embed-multiple-galleries">More details here</a>.</p>
-	<p><span id="button-1" class="link-button" >Gallery 1</span> | <span id="button-2" class="link-button">Gallery 2</span></p>
-
-	<div id="juicebox-container"></div>
-
-	<script>
-
-	$(document).ready(function() {
-		//load gallery 1
-		loadGallery('images/Chloe_JBGallery');
+                
+                //load initial Gallery
+                loadGallery('images/Chloe_JBGallery');
 		//initialize top buttons
-		$("#button-1").on("click", function(){loadGallery('images/Chloe_JBGallery');});
-		$("#button-2").on("click", function(){loadGallery('images/Alexis_Bittar_JBGallery');});
-	});
-
-	function loadGallery(base) {
+                $("#gallery1link").click(function(){loadGallery('images/Chloe_JBGallery');});
+		$("#gallery2link").click(function(){loadGallery('images/Alexis_Bittar_JBGallery');});
+                $("#gallery3link").click(function(){loadGallery('images/CommSpace_JBGallery');});
+                $("#gallery4link").click(function(){loadGallery('images/ElizabethSt_JBGallery');});
+                $("#gallery5link").click(function(){loadGallery('images/MaspethHome_JBGallery');});
+                $("#gallery6link").click(function(){loadGallery('images/MedOffice_JBGallery');});
+                $("#gallery7link").click(function(){loadGallery('images/Office_JBGallery');});
+                $("#gallery8link").click(function(){loadGallery('images/Penthouse_JBGallery');});
+                $("#gallery9link").click(function(){loadGallery('images/RooftopFence_JBGallery');});
+                $("#gallery10link").click(function(){loadGallery('images/SohoBoutique_JBGallery');});
+                $("#gallery11link").click(function(){loadGallery('images/SohoRetailStore_JBGallery');});
+                $("#gallery12link").click(function(){loadGallery('images/Townhouse_JBGallery');});
+                
+                function loadGallery(base) {
 		new juicebox({
 			baseUrl : base,
 			containerId : 'juicebox-container',
 			backgroundColor : '222222',
-			galleryWidth:'700',
-			galleryHeight:'600'
+			galleryWidth:'95%',
+			galleryHeight:'95%',
+                        showExpandButton : 'FALSE'
+                        
 		});
 	}
+	</script>
+        	<script>
+
+
 	</script>
 </body>
 </html>

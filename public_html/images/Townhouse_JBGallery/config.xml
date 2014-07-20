@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Brooklyn Townhouse"
+	importTitle="NONE"
+
+>
+  <image imageURL="images/DSC00857.jpg"
+	thumbURL="thumbs/DSC00857.jpg"
+	linkURL="images/DSC00857.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Townhouse\DSC00857.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC00859.jpg"
+	thumbURL="thumbs/DSC00859.jpg"
+	linkURL="images/DSC00859.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Townhouse\DSC00859.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC00860.jpg"
+	thumbURL="thumbs/DSC00860.jpg"
+	linkURL="images/DSC00860.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Townhouse\DSC00860.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC00861.jpg"
+	thumbURL="thumbs/DSC00861.jpg"
+	linkURL="images/DSC00861.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Townhouse\DSC00861.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC00862.jpg"
+	thumbURL="thumbs/DSC00862.jpg"
+	linkURL="images/DSC00862.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Townhouse\DSC00862.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC00863.jpg"
+	thumbURL="thumbs/DSC00863.jpg"
+	linkURL="images/DSC00863.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Townhouse\DSC00863.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Hall sm.jpg"
+	thumbURL="thumbs/Hall sm.jpg"
+	linkURL="images/Hall sm.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Townhouse\Hall sm.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Living Room-4 sm.jpg"
+	thumbURL="thumbs/Living Room-4 sm.jpg"
+	linkURL="images/Living Room-4 sm.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Townhouse\Living Room-4 sm.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Living Room-5 sm.jpg"
+	thumbURL="thumbs/Living Room-5 sm.jpg"
+	linkURL="images/Living Room-5 sm.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Townhouse\Living Room-5 sm.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/174 Warren sm.jpg"
+	thumbURL="thumbs/174 Warren sm.jpg"
+	linkURL="images/174 Warren sm.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Townhouse\174 Warren sm.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Bath sm.jpg"
+	thumbURL="thumbs/Bath sm.jpg"
+	linkURL="images/Bath sm.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Townhouse\Bath sm.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC00842.jpg"
+	thumbURL="thumbs/DSC00842.jpg"
+	linkURL="images/DSC00842.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Townhouse\DSC00842.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

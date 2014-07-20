@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Commercial Space"
+	importTitle="NONE"
+
+>
+  <image imageURL="images/commercialspace10.jpg"
+	thumbURL="thumbs/commercialspace10.jpg"
+	linkURL="images/commercialspace10.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Commercial Space\commercialspace10.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/commercialspace11.jpg"
+	thumbURL="thumbs/commercialspace11.jpg"
+	linkURL="images/commercialspace11.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Commercial Space\commercialspace11.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/commercialspace12.jpg"
+	thumbURL="thumbs/commercialspace12.jpg"
+	linkURL="images/commercialspace12.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Commercial Space\commercialspace12.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/commercialspace3.jpg"
+	thumbURL="thumbs/commercialspace3.jpg"
+	linkURL="images/commercialspace3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Commercial Space\commercialspace3.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/commercialspace4.jpg"
+	thumbURL="thumbs/commercialspace4.jpg"
+	linkURL="images/commercialspace4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Commercial Space\commercialspace4.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/commercialspace5.jpg"
+	thumbURL="thumbs/commercialspace5.jpg"
+	linkURL="images/commercialspace5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Commercial Space\commercialspace5.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/commercialspace6.jpg"
+	thumbURL="thumbs/commercialspace6.jpg"
+	linkURL="images/commercialspace6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Commercial Space\commercialspace6.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/commercialspace7.jpg"
+	thumbURL="thumbs/commercialspace7.jpg"
+	linkURL="images/commercialspace7.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Commercial Space\commercialspace7.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/commercialspace8.jpg"
+	thumbURL="thumbs/commercialspace8.jpg"
+	linkURL="images/commercialspace8.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Commercial Space\commercialspace8.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/commercialspace9.jpg"
+	thumbURL="thumbs/commercialspace9.jpg"
+	linkURL="images/commercialspace9.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Commercial Space\commercialspace9.jpg">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

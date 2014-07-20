@@ -68,9 +68,9 @@ p {margin-bottom:18px}
 /*********************************header*************************************/
 header {width:100%;position:relative;z-index:2}
 .row-1 {width:100%;height:71px;background:url(../images/row1-top-tail.gif) left top repeat-x}
-.row-2 {width:100%;min-height:101px;background:url(../images/row2-tail.gif) left top repeat-x #fff}
+.row-2 {width:100%;min-height:101px;background-color:#f4f4f4;}
 h1 {padding:15px 0 0 0;position:relative;font-weight:normal;text-transform:uppercase;margin-left:-4px;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif}
-	h1 span {display:inline-block;	font-size:28px;	line-height:1.2em;	color:#949494;	letter-spacing:-1px;	padding:29px 0 0 4px}
+	h1 span {display:inline-block;	font-size:18px;	line-height:1.2em;	color:#949494;	letter-spacing:-1px;	padding:2px 0 0 0px}
 .logo {display:inline-block;font-size:60px;line-height:1.2em;;color:#262626;cursor:pointer;letter-spacing:-3px}
 	.logo strong {color:#ff9601; font-weight:normal}
 /***** menu *****/
@@ -175,8 +175,9 @@ dl strong {float:left; width:80px; font-weight:normal}
 .carousel .prev {display:block;height:22px;width:11px;position:absolute;right:31px;top:14px;background:url(../images/carousel-control.png) left top no-repeat;text-indent:-5000px}
 .jCarouselLite {left:-12px !important}
 #carousel li {width:200px !important;height:121px !important;padding:17px 22px 27px;margin-right:-4px;background:url(../images/carousel-li-bg.png) left top no-repeat;position:relative;overflow:hidden}
-	#carousel li a {display:block; position:relative}
-	#carousel li a span {font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;	letter-spacing:-2px;	display:block;	width:78px;	height:35px;	background:#fff;	color:#262626;	font-size:35px;	line-height:1.2em;	position:absolute;	left:0;	bottom:0;	overflow:hidden;	z-index:99}
+	#carousel li div {display:block; position:relative}
+	#carousel li div span {font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;	letter-spacing:-2px;	display:block;	width:200px;	height:27px;	background:#fff;	color:#262626;	font-size:24px;	line-height:1.2em;	position:absolute;	left:0;	bottom:0;	overflow:hidden;	z-index:99}
+        #carousel li div img {width:200px; height:121px}
 /***** subscribe form *****/
 #subscribe-form {display:block}
 #subscribe-form .subscribe-field {background:#fbfbfb;border:1px solid #fff;width:288px;height:29px;margin-bottom:20px;box-shadow: 0px 5px 8px rgba(0,0,0,0.70);-moz-box-shadow: 0px 5px 8px rgba(0,0,0,0.70);-webkit-box-shadow: 0px 5px 8px rgba(0,0,0,0.70)}

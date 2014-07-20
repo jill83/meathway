@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	galleryTitle="Penthouse Apartment"
+
+>
+  <image imageURL="images/ph1.jpg"
+	thumbURL="thumbs/ph1.jpg"
+	linkURL="images/ph1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Penthouse\ph1.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ph2.jpg"
+	thumbURL="thumbs/ph2.jpg"
+	linkURL="images/ph2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Penthouse\ph2.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ph3.jpg"
+	thumbURL="thumbs/ph3.jpg"
+	linkURL="images/ph3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Penthouse\ph3.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ph4.jpg"
+	thumbURL="thumbs/ph4.jpg"
+	linkURL="images/ph4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Penthouse\ph4.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/ph5.jpg"
+	thumbURL="thumbs/ph5.jpg"
+	linkURL="images/ph5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Penthouse\ph5.JPG">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

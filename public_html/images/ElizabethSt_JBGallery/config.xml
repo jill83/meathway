@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Elizabeth St Boutique"
+	importTitle="NONE"
+
+>
+  <image imageURL="images/Elizabeth1.jpg"
+	thumbURL="thumbs/Elizabeth1.jpg"
+	linkURL="images/Elizabeth1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\ElizabethSt Boutique\Elizabeth1.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Elizabeth2.jpg"
+	thumbURL="thumbs/Elizabeth2.jpg"
+	linkURL="images/Elizabeth2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\ElizabethSt Boutique\Elizabeth2.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Elizabeth3.jpg"
+	thumbURL="thumbs/Elizabeth3.jpg"
+	linkURL="images/Elizabeth3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\ElizabethSt Boutique\Elizabeth3.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Elizabeth5.jpg"
+	thumbURL="thumbs/Elizabeth5.jpg"
+	linkURL="images/Elizabeth4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\ElizabethSt Boutique\Elizabeth5.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Elizabeth6.jpg"
+	thumbURL="thumbs/Elizabeth6.jpg"
+	linkURL="images/Elizabeth5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\ElizabethSt Boutique\Elizabeth6.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Elizabeth4.jpg"
+	thumbURL="thumbs/Elizabeth4.jpg"
+	linkURL="images/Elizabeth6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\ElizabethSt Boutique\Elizabeth4.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

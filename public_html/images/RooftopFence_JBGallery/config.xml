@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	galleryTitle="Rooftop Fence"
+
+>
+  <image imageURL="images/fence5.jpg"
+	thumbURL="thumbs/fence5.jpg"
+	linkURL="images/fence5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Rooftop Fence\fence5.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/fence1.jpg"
+	thumbURL="thumbs/fence1.jpg"
+	linkURL="images/fence1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Rooftop Fence\fence1.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/fence2.jpg"
+	thumbURL="thumbs/fence2.jpg"
+	linkURL="images/fence2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Rooftop Fence\fence2.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/fence3.jpg"
+	thumbURL="thumbs/fence3.jpg"
+	linkURL="images/fence3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Rooftop Fence\fence3.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/fence4.jpg"
+	thumbURL="thumbs/fence4.jpg"
+	linkURL="images/fence4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Rooftop Fence\fence4.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

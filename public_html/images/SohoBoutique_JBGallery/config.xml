@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	galleryTitle="Soho Boutique"
+
+>
+  <image imageURL="images/lim3.jpg"
+	thumbURL="thumbs/lim3.jpg"
+	linkURL="images/lim3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Soho Boutique\lim3.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lim4.jpg"
+	thumbURL="thumbs/lim4.jpg"
+	linkURL="images/lim4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Soho Boutique\lim4.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/lim2.jpg"
+	thumbURL="thumbs/lim2.jpg"
+	linkURL="images/lim2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Soho Boutique\lim2.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

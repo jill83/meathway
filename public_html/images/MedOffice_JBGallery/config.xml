@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	galleryTitle="Medical Office"
+
+>
+  <image imageURL="images/25-bond-4.jpg"
+	thumbURL="thumbs/25-bond-4.jpg"
+	linkURL="images/25-bond-4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Medical Office\25-bond-4.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25-bond-5.jpg"
+	thumbURL="thumbs/25-bond-5.jpg"
+	linkURL="images/25-bond-5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Medical Office\25-bond-5.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25-bond-6.jpg"
+	thumbURL="thumbs/25-bond-6.jpg"
+	linkURL="images/25-bond-6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Medical Office\25-bond-6.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25-bond-7.jpg"
+	thumbURL="thumbs/25-bond-7.jpg"
+	linkURL="images/25-bond-7.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Medical Office\25-bond-7.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25-bond-8.jpg"
+	thumbURL="thumbs/25-bond-8.jpg"
+	linkURL="images/25-bond-8.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Medical Office\25-bond-8.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25-bond-10.jpg"
+	thumbURL="thumbs/25-bond-10.jpg"
+	linkURL="images/25-bond-10.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Medical Office\25-bond-10.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25 bond 9.jpg"
+	thumbURL="thumbs/25 bond 9.jpg"
+	linkURL="images/25 bond 9.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Medical Office\25 bond 9.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25-bond-1.jpg"
+	thumbURL="thumbs/25-bond-1.jpg"
+	linkURL="images/25-bond-1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Medical Office\25-bond-1.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25-bond-2.jpg"
+	thumbURL="thumbs/25-bond-2.jpg"
+	linkURL="images/25-bond-2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Medical Office\25-bond-2.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/25-bond-3.jpg"
+	thumbURL="thumbs/25-bond-3.jpg"
+	linkURL="images/25-bond-3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Medical Office\25-bond-3.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

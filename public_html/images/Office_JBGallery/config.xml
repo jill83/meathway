@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	galleryTitle="Office"
+
+>
+  <image imageURL="images/33-court-st-6.jpg"
+	thumbURL="thumbs/33-court-st-6.jpg"
+	linkURL="images/33-court-st-6.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Office\33-court-st-6.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/33-court-st-7.jpg"
+	thumbURL="thumbs/33-court-st-7.jpg"
+	linkURL="images/33-court-st-7.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Office\33-court-st-7.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/33-court-st-8.jpg"
+	thumbURL="thumbs/33-court-st-8.jpg"
+	linkURL="images/33-court-st-8.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Office\33-court-st-8.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/33-court-st-9.jpg"
+	thumbURL="thumbs/33-court-st-9.jpg"
+	linkURL="images/33-court-st-9.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Office\33-court-st-9.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/33-court-st-10.jpg"
+	thumbURL="thumbs/33-court-st-10.jpg"
+	linkURL="images/33-court-st-10.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Office\33-court-st-10.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/office1.jpg"
+	thumbURL="thumbs/office1.jpg"
+	linkURL="images/office1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Office\office1.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/office2.jpg"
+	thumbURL="thumbs/office2.jpg"
+	linkURL="images/office2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Office\office2.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/office3.jpg"
+	thumbURL="thumbs/office3.jpg"
+	linkURL="images/office3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Office\office3.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/office4.jpg"
+	thumbURL="thumbs/office4.jpg"
+	linkURL="images/office4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Office\office4.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

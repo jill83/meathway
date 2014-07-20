@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	importTitle="NONE"
+	galleryTitle="Maspeth Home"
+
+>
+  <image imageURL="images/maspeth1.jpg"
+	thumbURL="thumbs/maspeth1.jpg"
+	linkURL="images/maspeth1.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Maspeth Home\maspeth1.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/maspeth2.jpg"
+	thumbURL="thumbs/maspeth2.jpg"
+	linkURL="images/maspeth2.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Maspeth Home\maspeth2.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/maspeth3.jpg"
+	thumbURL="thumbs/maspeth3.jpg"
+	linkURL="images/maspeth3.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Maspeth Home\maspeth3.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/maspeth4.jpg"
+	thumbURL="thumbs/maspeth4.jpg"
+	linkURL="images/maspeth4.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Maspeth Home\maspeth4.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/maspeth5.jpg"
+	thumbURL="thumbs/maspeth5.jpg"
+	linkURL="images/maspeth5.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\raffertyji\Documents\NetBeansProjects\MeathwayOldImages\Maspeth Home\maspeth5.png">
+    <title><![CDATA[]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
