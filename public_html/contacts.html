@@ -9,6 +9,7 @@ and open the template in the editor.
         <title>Meathway Contracting - Contact Us</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <link rel="stylesheet" href="css/reset.css" type="text/css" media="screen">
     <link rel="stylesheet" href="css/style.css" type="text/css" media="screen">
     <link rel="stylesheet" href="css/grid.css" type="text/css" media="screen">   
@@ -97,24 +98,25 @@ and open the template in the editor.
                                                     <strong>Telephone: </strong>917-838-0936<div><br>
                                                     <strong>Fax: </strong>718-606-8183<div></div><br>
                                                         <div></div>
-                                                        
-                                                        <h3>Our Address:</h2> 53-46 70th St <br>
-                                                        Maspeth, Queens<br>  NY 11378 
-                                                        
-                                                        <div id="map_canvas"></div>
-                                                        <!--
-                                                    <form id="contact-form" method="post" enctype="multipart/form-data">                    
+                                                      <h2>Alternatively fill your details in the form below and press 'Send':</h2><br>  
+                                                    
+                                                    <form id="contact-form" action="contact.php" method="post" enctype="multipart/form-data" autocomplete="on">                    
                                                         <fieldset>
-                                                              <label><span class="text-form">Name:</span><input name="p1" type="text" /></label>
-                                                              <label><span class="text-form">Email:</span><input name="p2" type="text" /></label>   
-                                                              <label><span class="text-form">Phone:</span><input name="p3" type="text" /></label>                                    
-                                                              <div class="wrapper"><div class="text-form">Message:</div><textarea></textarea></div>
+                                                            <label><span class="text-form">Name:</span><input type="text" name="cf_name" required placeholder="Your name here"  /></label>
+                                                              <label><span class="text-form">Email:</span><input  type="email" name="cf_email" required placeholder="user@mydomain.com"  /></label>   
+                                                              <label><span class="text-form">Phone:</span><input type="tel" name="cf_phone" required placeholder="Your phone number here"/></label>                                    
+                                                              <div class="wrapper"><div class="text-form">Message:</div><textarea name="cf_message" required placeholder="Your enquiry here"></textarea></div>
                                                               <div class="buttons">
                                                                   <a class="button" href="#" onClick="document.getElementById('contact-form').reset()">Clear</a>
                                                                   <a class="button" href="#" onClick="document.getElementById('contact-form').submit()">Send</a>
                                                               </div>                             
                                                         </fieldset>						
-                                                    </form>-->
+                                                    </form>
+                                                      
+                                                       <h3>Our Address:</h2> 53-46 70th St <br>
+                                                        Maspeth, Queens<br>  NY 11378 
+                                                        
+                                                        <div id="map_canvas"></div>
                                                 </div>
                                             </div>
                                         </div>
