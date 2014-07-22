@@ -155,7 +155,7 @@ h6 {color:#ff9601}
 	.list-1 li a:hover {color:#fff}
 .list-2 li {line-height:1.23em;padding:8px 0;background:url(../images/pic-1.gif) 0 bottom repeat-x}
 	.list-2 li a {display:inline-block;	color:#262626;	padding-left:10px;	background:url(../images/marker-2.gif) 0 6px no-repeat}
-		.list-2 li a:hover {color:#ff9601}
+		.list-2 li a:hover {cursor: default}
 	.list-2 .last-item {background:none}
 .price-list li {width: 100%;overflow: hidden;vertical-align: top;line-height: 1.23em;padding:7px 0 9px;color: #262626;background:url(../images/pic-1.gif) 0 bottom repeat-x}
 .price-list li.last {background:none}

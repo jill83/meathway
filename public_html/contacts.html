@@ -43,7 +43,16 @@ and open the template in the editor.
       google.maps.event.addDomListener(window, 'load', initialize);
     </script>
 </head>
+
 <body id="page5">
+     <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v2.0";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
 	<!--==============================header=================================-->
     <header>
     	<div class="row-1">
@@ -131,5 +140,27 @@ and open the template in the editor.
     </section>
     
 	<!--==============================footer=================================-->
+        <footer>
+         <div class="main">
+         	<div class="container_12">
+             	<div class="wrapper">
+                 	<div class="grid_4">
+                     	<div >Meathway Contracting Inc &copy; 2014 </div>
+                         <div></div>
+                         <!-- {%FOOTER_LINK} -->
+                     </div>
+                     <div class="grid_4" align="center">
+                         <h2 itemprop="name">Contact us for a free estimate</h2>
+                         <a href="<? echo ($detect->isMobile()) ? 'tel' : 'callto'; ?> :+1-917-827-0034">
+                             <span class="phone-numb"><span>(+1)</span> 917-827-0034</span></a>
+                     </div>
+                     <div class="grid_4" align="right">
+<div class="fb-like-box" data-href="https://www.facebook.com//MeathwayContractingInc" data-width="100" data-height="100" data-colorscheme="light" data-show-faces="false" data-header="true" data-stream="false" data-show-border="false"></div>
+                         </ul>
+                     </div>
+                 </div>
+             </div>
+         </div>
+    </footer>
 </body>
 </html>
