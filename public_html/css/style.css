@@ -65,6 +65,7 @@ p {margin-bottom:18px}
 .prev-indent-bot {margin-bottom:10px}	
 .prev-indent-bot2 {margin-bottom:5px}	
 .buttons a:hover {cursor:pointer}
+.buttons input:hover {cursor:pointer}
 .menu li a, .list-1 li a, .list-2 li a, .link, .button, .logo {text-decoration:none}
 /*********************************header*************************************/
 header {width:100%;position:relative;z-index:2}
@@ -230,3 +231,25 @@ footer {width:100%;padding:40px 0 33px;background:url(../images/footer-tail.gif)
 		.list-services li a.item-3 {background-position:-160px 0}
 		.list-services li a.item-4 {background-position:-240px 0}
 
+input#submitbutton 
+{
+    margin-left: 10px;
+    padding: 10px 42px 11px;
+    background: url("../images/button-tail.gif") repeat-x scroll 0 0 #000;
+    color: #fff;
+    display: inline-block;
+    font-family: "Trebuchet MS",Arial,Helvetica,sans-serif;
+    font-size: 18px;
+    letter-spacing: -1px;
+    line-height: 1.22em;
+    text-transform: uppercase;
+    text-decoration: none;
+    outline: medium none;
+    border: 0 none;
+    vertical-align: top;
+    text-align: right;
+    float: right;
+    width: 106px;
+    
+}
+input#submitbutton:hover{background:#ff9601}

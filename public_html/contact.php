@@ -15,7 +15,10 @@ $body_message .= 'Message: '.$field_message;
 $headers = 'From: '.$field_email."\r\n";
 $headers .= 'Reply-To: '.$field_email."\r\n";
 
-$mail_status = mail($mail_to, $subject, $body_message, $headers);
+
+ $mail_status = mail($mail_to, $subject, $body_message, $headers);
+
+
 
 if ($mail_status) { ?>
 	<script language="javascript" type="text/javascript">
@@ -26,7 +29,7 @@ if ($mail_status) { ?>
 }
 else { ?>
 	<script language="javascript" type="text/javascript">
-		alert('Message failed. Please, send an email to sean@meathway.com');
+		alert('Message failed. Please, send an email to meathwaycontracting@yahoo.com');
 		window.location = 'contacts.html';
 	</script>
 <?php
