@@ -5,7 +5,7 @@ $field_phone = $_POST['cf_phone'];
 $field_message = $_POST['cf_message'];
 
 $mail_to = 'jillrafferty1@hotmail.com';
-$subject = 'Message from a site visitor '.$field_name;
+$subject = 'Meathway - Enquiry from a site visitor '.$field_name;
 
 $body_message = 'From: '.$field_name."\n";
 $body_message .= 'E-mail: '.$field_email."\n";
