@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Upper East Side Roof Deck"
+
+>
+  <image imageURL="images/IMG_4075.jpg"
+	thumbURL="thumbs/IMG_4075.jpg"
+	linkURL="images/IMG_4075.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/JI20183404/Downloads/IMG_4075.jpg">
+    <title><![CDATA[Upper East Side Roof Deck]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4072.jpg"
+	thumbURL="thumbs/IMG_4072.jpg"
+	linkURL="images/IMG_4072.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/JI20183404/Downloads/IMG_4072.jpg">
+    <title><![CDATA[Upper East Side Roof Deck]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4093.jpg"
+	thumbURL="thumbs/IMG_4093.jpg"
+	linkURL="images/IMG_4093.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/JI20183404/Downloads/IMG_4093.jpg">
+    <title><![CDATA[Upper East Side Roof Deck]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG_4076.jpg"
+	thumbURL="thumbs/IMG_4076.jpg"
+	linkURL="images/IMG_4076.jpg"
+	linkTarget="_blank"
+	sourcePath="/Users/JI20183404/Downloads/IMG_4076.jpg">
+    <title><![CDATA[Upper East Side Roof Deck]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
