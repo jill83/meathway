@@ -6,7 +6,7 @@ $field_message = $_POST['cf_message'];
 $field_domainsenderemail = 'meathway@meathway.com';
 
 $mail_to = 'meathwaycontracting@yahoo.com';
-$subject = 'Meathway - Enquiry from a site visitor '.$field_name;
+$subject = 'Meathway - Enquiry from a Website visitor '.$field_name;
 
 $body_message = 'From: '.$field_name."\n";
 $body_message .= 'E-mail: '.$field_email."\n";
